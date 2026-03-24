@@ -1,7 +1,7 @@
 # ÚLOHA 1: Sčítací past (Cíl: 5 + 3 = 8)
 # ---------------------------------------------------------
 
-
+fvsfebnmnethrwgefWD
 # ÚLOHA 2: Opakovač jména (Cíl: "Honza" a 3 -> "HonzaHonzaHonza")
 # ---------------------------------------------------------
 
